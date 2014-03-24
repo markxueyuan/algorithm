@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="algorithm Princeton">
+    <CLASSES>
+      <root url="jar://E:/TDDOWNLOAD/algs4.jar!/" />
+      <root url="jar://E:/TDDOWNLOAD/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/TDDOWNLOAD/algs4.jar!/" />
+      <root url="jar://E:/TDDOWNLOAD/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
