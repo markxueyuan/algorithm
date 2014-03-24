@@ -8,6 +8,6 @@ public class MakeRandomSeq {
             double x = StdRandom.uniform(lo,hi);
             StdOut.printf("May be %.2f \n", x);
         }
-        StdOut.printf("Chongzhi Zu's PI is about %.7f\n", Math.PI);
+        StdOut.printf("Chongzhi Zu's PI is about %.7f\r\n", Math.PI);
     }
 }
