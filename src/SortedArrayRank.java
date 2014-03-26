@@ -17,7 +17,7 @@ public class SortedArrayRank {
 	
 	public static void main(String[] args){
 		int key = 6;
-		int[] a = {1, 2, 3, 4, 5, 6, 7};
+		int[] a = {1, 2, 3, 4, 5, 7, 8};
 		System.out.println(rank(key, a));
 	}
 }
