@@ -11,7 +11,7 @@ public class IStopWatch {
 
     public double elapsedTime(){
         long now = System.currentTimeMillis();
-        return (now - start) / 1000;
+        return (now - start) / 1000.0;
     }
 
     public static void main(String[] args){
