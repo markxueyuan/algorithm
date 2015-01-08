@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c478105-1db9-4429-b3e1-15586d7af0c0" name="Default" comment="" />
+    <list default="true" id="9c478105-1db9-4429-b3e1-15586d7af0c0" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Xue\workspace\algorithm\src\Counter.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Xue\workspace\algorithm\src\Flips.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Xue\workspace\algorithm\src\FlipsMax.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Xue\workspace\algorithm\src\ImplementBag.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Xue\workspace\algorithm\src\Rolls.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Xue\workspace\algorithm\src\StatsInBag.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Average.java" afterPath="$PROJECT_DIR$/src/Average.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ImplementStringMethods.java" afterPath="$PROJECT_DIR$/src/ImplementStringMethods.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Printf.java" afterPath="$PROJECT_DIR$/src/Printf.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RandomPractice.java" afterPath="$PROJECT_DIR$/src/RandomPractice.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TryBinarySearch.java" afterPath="$PROJECT_DIR$/src/TryBinarySearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TryStdDraw.java" afterPath="$PROJECT_DIR$/src/TryStdDraw.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/algorithm_Princeton.xml" afterPath="$PROJECT_DIR$/.idea/libraries/algorithm_Princeton.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="algorithm.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FixedCapacityStack.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FixedCapacityStack.java">
+      <file leaf-file-name="IStopWatch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IStopWatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09706258" vertical-offset="0" max-vertical-offset="783">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.84751207" vertical-offset="0" max-vertical-offset="696">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -44,20 +61,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NumberString.java" />
-        <option value="$PROJECT_DIR$/src/SortedArrayRank.java" />
-        <option value="$PROJECT_DIR$/src/MakeRandomSeq.java" />
-        <option value="$PROJECT_DIR$/src/FixedCapacityStack.java" />
+        <option value="$PROJECT_DIR$/src/CBag.java" />
+        <option value="$PROJECT_DIR$/src/IREADInts.java" />
+        <option value="$PROJECT_DIR$/src/IReadInts.java" />
+        <option value="$PROJECT_DIR$/src/IReverse.java" />
+        <option value="$PROJECT_DIR$/src/IEx.java" />
+        <option value="$PROJECT_DIR$/src/IExpressionEvaluation.java" />
+        <option value="$PROJECT_DIR$/src/IFixedCapacityStackOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/IFixedCapacityStack.java" />
+        <option value="$PROJECT_DIR$/src/IStack.java" />
+        <option value="$PROJECT_DIR$/src/IBag.java" />
+        <option value="$PROJECT_DIR$/src/IStack2.java" />
+        <option value="$PROJECT_DIR$/src/IQueue.java" />
+        <option value="$PROJECT_DIR$/src/IStopWatch.java" />
+        <option value="$PROJECT_DIR$/src/IThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/IDoublingTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1276" />
-    <option name="y" value="-4" />
-    <option name="width" value="1448" />
-    <option name="height" value="908" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -140,22 +168,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="algorithm Princeton" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="algorithm" />
@@ -192,7 +207,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -203,7 +217,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="E:/TDDOWNLOAD/stdlib.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/stdlib.jar!/" />
     <property name="FullScreen" value="false" />
     <property name="options.lastSelected" value="Errors" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -217,8 +231,9 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MakeRandomSeq">
+  <component name="RunManager" selected="Application.IDate">
     <configuration default="false" name="MakeRandomSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MakeRandomSeq" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="5 300 400" />
@@ -241,6 +256,7 @@
       <method />
     </configuration>
     <configuration default="false" name="NumberString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="NumberString" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="10 10.0 100.0" />
@@ -256,10 +272,79 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    <configuration default="false" name="IDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="IDate" />
+      <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="algorithm" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local">
+      <setting name="useLein" value="true" />
+      <setting name="leinProjectName" value="" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -283,12 +368,26 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -304,7 +403,14 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/algs4.jar" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -332,6 +438,7 @@
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -345,54 +452,16 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.MakeRandomSeq" />
       <item index="1" class="java.lang.String" itemvalue="Application.NumberString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IDate" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.MakeRandomSeq" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NumberString" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.IDate" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MakeRandomSeq" />
+        <item index="2" class="java.lang.String" itemvalue="Application.NumberString" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -408,46 +477,54 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="9c478105-1db9-4429-b3e1-15586d7af0c0" name="Default" comment="" />
       <created>1395651771259</created>
+      <option name="number" value="Default" />
       <updated>1395651771259</updated>
     </task>
     <task id="LOCAL-00001" summary="tried intellij">
       <created>1395655787077</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
       <updated>1395655787077</updated>
     </task>
     <task id="LOCAL-00002" summary="tried intellij2">
       <created>1395655951677</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
       <updated>1395655951677</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1276" y="-4" width="1448" height="908" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21736111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962963" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15989305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -473,12 +550,30 @@
     <breakpoint-manager>
       <option name="time" value="7" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/FixedCapacityStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="648">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1398697442731" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1398697442731" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MakeRandomSeq.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="361">
@@ -547,8 +642,299 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FixedCapacityStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09706258" vertical-offset="0" max-vertical-offset="783">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.31001076" vertical-offset="0" max-vertical-offset="929">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1398697442731" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1398697442731" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1398697442731" expanded="false" signature="-1:-1" placeholder=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StaticMethodImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9261637" vertical-offset="0" max-vertical-offset="1416">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <marker date="1420020986219" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420020986219" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420020986219" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420020986219" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420020986219" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420020986219" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420020986219" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420020986219" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0786517" vertical-offset="0" max-vertical-offset="1176">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+          <folding>
+            <marker date="1420425522684" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420425522684" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420425522684" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420425522684" expanded="true" signature="-1:-1" placeholder=" { " />
+            <marker date="1420425522684" expanded="true" signature="-1:-1" placeholder=" }" />
+            <marker date="1420425522684" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420425522684" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420425522684" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420425522684" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420425522684" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420425522684" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IFlips.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19101124" vertical-offset="73" max-vertical-offset="696">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          <folding>
+            <marker date="1420360149132" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49919742" vertical-offset="193" max-vertical-offset="816">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <marker date="1420517985345" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420517985345" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420517985345" expanded="true" signature="-1:-1" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IReadInts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6918138" vertical-offset="145" max-vertical-offset="768">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <marker date="1420520112532" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420520112532" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420520112532" expanded="true" signature="-1:-1" placeholder="&lt;~&gt;" />
+            <marker date="1420520112532" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42375603" vertical-offset="0" max-vertical-offset="623">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <marker date="1420524581935" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420524581935" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420524581935" expanded="true" signature="-1:-1" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31001076" vertical-offset="0" max-vertical-offset="929">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1420528975259" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420528975259" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12917115" vertical-offset="0" max-vertical-offset="929">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <marker date="1397988069257" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1397988069257" expanded="true" signature="-1:-1" placeholder="&lt;~&gt;" />
+            <marker date="1397988069257" expanded="true" signature="-1:-1" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IExpressionEvaluation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42375603" vertical-offset="0" max-vertical-offset="1008">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1420533098570" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420533098570" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420533098570" expanded="true" signature="-1:-1" placeholder="&lt;~&gt;" />
+            <marker date="1420533098570" expanded="true" signature="-1:-1" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IFixedCapacityStackOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80738366" vertical-offset="601" max-vertical-offset="1296">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" { " />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" }" />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" { " />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" }" />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" { " />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" }" />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" { " />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" }" />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" { " />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder=" }" />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420550782852" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FDatable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26966292" vertical-offset="0" max-vertical-offset="623">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80898875" vertical-offset="432" max-vertical-offset="1584">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <marker date="1420615194466" expanded="false" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420615194466" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420615194466" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420615194466" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420615194466" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420615194466" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420615194466" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420615194466" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420615194466" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420615194466" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420615194466" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420615194466" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420615194466" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420615194466" expanded="false" signature="-1:-1" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1540931" vertical-offset="504" max-vertical-offset="1512">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420597764444" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420597764444" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420597764444" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420597764444" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420597764444" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420597764444" expanded="false" signature="-1:-1" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IStack2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.269663" vertical-offset="601" max-vertical-offset="1752">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding>
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420618261446" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420618261446" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420618261446" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420618261446" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420618261446" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420618261446" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420618261446" expanded="false" signature="-1:-1" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3483146" vertical-offset="1225" max-vertical-offset="1848">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+          <folding>
+            <marker date="1420619171748" expanded="false" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420619171748" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420619171748" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420619171748" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1420619171748" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder=" { " />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder=" }" />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420619171748" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420619171748" expanded="false" signature="-1:-1" placeholder="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42375603" vertical-offset="0" max-vertical-offset="744">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1420639334013" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420639334013" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420639334013" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IDoublingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23113964" vertical-offset="0" max-vertical-offset="696">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <marker date="1420688655118" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1420688655118" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420688655118" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IStopWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84751207" vertical-offset="0" max-vertical-offset="696">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -631,4 +1017,3 @@
     </states>
   </component>
 </project>
-
