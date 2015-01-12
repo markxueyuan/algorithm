@@ -1,5 +1,5 @@
 
-public class IDate implements FDatable{
+public class IDate implements FDatable, Comparable<IDate>{
 	
 	private final int month;
 	private final int day;
@@ -37,6 +37,16 @@ public class IDate implements FDatable{
 		if(this.year() != that.year()) return false;
 		return true;
 	}
+
+	public int compareTo(IDate that){
+		if(this.year > that.year) return +1;
+		if(this.year < that.year) return -1;
+		if(this.month > that.month) return +1;
+		if(this.month < that.month) return -1;
+		if(this.day > that.day) return +1;
+		if(this.day < that.day) return -1;
+		else return 0;
+	}
 	
 	public static void main(String[] args){
 		IDate first = new IDate(12, 3, 2014);
@@ -44,6 +54,8 @@ public class IDate implements FDatable{
 		IDate third = new IDate(12, 4, 2014);
 		StdOut.println(first.equals(second));
 		StdOut.println(first.equals(third));
+		StdOut.println(first.compareTo(second));
+		StdOut.println(first.compareTo(third));
 	}
 
 }
