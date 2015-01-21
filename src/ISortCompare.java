@@ -12,7 +12,8 @@ public class ISortCompare {
         if(alg.equals("Shell")) IShellSort.sort(a);
         if(alg.equals("Merge")) IMergeSortTopDown.sort(a);
         if(alg.equals("Merge2")) IMergeSortBottomUp.sort(a);
-        if(alg.equals("Quick")) Quick.sort(a);
+        if(alg.equals("Quick")) IQuickSortHoare.sort(a);
+        if(alg.equals("Quick3Way")) IQuickSort3Way.sort(a);
         if(alg.equals("Heap")) Heap.sort(a);
 
         return timer.elapsedTime();
@@ -42,7 +43,8 @@ public class ISortCompare {
         double t2 = timeRandomInput(alg2, N, T);
 
         StdOut.printf("For %d random Doubles\n %s is ", N, alg1);
-        StdOut.printf("%.1f times faster that %s", t2/t1, alg2);
+        StdOut.printf("%.1f times faster than %s", t2/t1, alg2);
 
     }
+
 }
