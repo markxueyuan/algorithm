@@ -3,31 +3,15 @@
  */
 public class IEx<Key> {
 
-    private Key[] a;
+    private static String a = "hzelloha";
 
-    public IEx(){
-        a = (Key[]) new Object[5];
-    }
-
-    public void add(Key key){
-        a[0] = key;
-        a[1] = key;
-        a[2] = key;
-        a[3] = key;
-        a[4] = key;
-    }
-
-    public Key getSecond(){
-        return a[1];
-    }
+    private static char b = a.charAt(1);
 
 
 
     public static void main(String[] args){
 
-        IEx<String> a = new IEx<String>();
-        a.add("hello");
-        StdOut.println(a.getSecond());
-
+        StdOut.println(b+0);
+        StdOut.println(a.hashCode());
     }
 }

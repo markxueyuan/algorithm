@@ -47,6 +47,15 @@ public class IDate implements FDatable, Comparable<IDate>{
 		if(this.day < that.day) return -1;
 		else return 0;
 	}
+
+	public int hashCode(){
+
+		int hash = 17;
+		hash = 31*hash + month;
+		hash = 31*hash + day;
+		hash = 31*hash + year;
+		return hash;
+	}
 	
 	public static void main(String[] args){
 		IDate first = new IDate(12, 3, 2014);
@@ -57,5 +66,7 @@ public class IDate implements FDatable, Comparable<IDate>{
 		StdOut.println(first.compareTo(second));
 		StdOut.println(first.compareTo(third));
 	}
+
+
 
 }

@@ -24,7 +24,7 @@ public class IBinarySearchTree<Key extends Comparable<Key>, Value> {
     }
 
     private int size(Node x){
-        if (x == null) return 0; 
+        if (x == null) return 0;
         else return x.N;
     }
 
