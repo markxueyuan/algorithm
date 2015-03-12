@@ -30,10 +30,20 @@ public class IEx<Key> {
         a[j] = temp;
     }
 
+    public static int tryTryTry(){
+        for(int i = 0; i < 5; i++)
+            return i;
+        return 1000;
+    }
+
 
     public static void main(String[] args){
         insertion(c, 0, c.length-1, 0);
         for(int i = 0; i < c.length; i++)
             StdOut.println(c[i]);
+        char u = 25;
+        StdOut.println("here it is " + u);
+
+        StdOut.println(tryTryTry());
     }
 }

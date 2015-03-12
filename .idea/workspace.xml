@@ -31,12 +31,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IQuick3StringSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/IQuick3StringSort.java">
+      <file leaf-file-name="ILempelZivWelchCompression.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ILempelZivWelchCompression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49919742" vertical-offset="529" max-vertical-offset="1296">
-              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
-              <folding />
+            <state vertical-scroll-proportion="0.5778491" vertical-offset="720" max-vertical-offset="1512">
+              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+              <folding>
+                <element signature="e#314#323#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,22 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/IDate.java" />
-        <option value="$PROJECT_DIR$/src/ITransaction.java" />
-        <option value="$PROJECT_DIR$/src/ISeperateChainingHashST.java" />
-        <option value="$PROJECT_DIR$/src/ISeparateChainingHashST.java" />
-        <option value="$PROJECT_DIR$/src/ILinearProbingHashST.java" />
-        <option value="$PROJECT_DIR$/src/IDeDup.java" />
-        <option value="$PROJECT_DIR$/src/IWhiteFilter.java" />
-        <option value="$PROJECT_DIR$/src/ILookupCSV.java" />
-        <option value="$PROJECT_DIR$/src/ILookupIndex.java" />
-        <option value="$PROJECT_DIR$/src/IFileIndex.java" />
-        <option value="$PROJECT_DIR$/src/CGraphClient.java" />
-        <option value="$PROJECT_DIR$/src/IGraph.java" />
-        <option value="$PROJECT_DIR$/src/CPaths.java" />
-        <option value="$PROJECT_DIR$/src/IDepthFirstSearch.java" />
-        <option value="$PROJECT_DIR$/src/IBreadthFirstPaths.java" />
-        <option value="$PROJECT_DIR$/src/IDepthFirstPaths.java" />
         <option value="$PROJECT_DIR$/src/ICC.java" />
         <option value="$PROJECT_DIR$/src/ICycle.java" />
         <option value="$PROJECT_DIR$/src/ITwoColor.java" />
@@ -103,8 +89,24 @@
         <option value="$PROJECT_DIR$/src/ICount.java" />
         <option value="$PROJECT_DIR$/src/ILeastSignificantDigitFirstStringSort.java" />
         <option value="$PROJECT_DIR$/src/IMostSignificantDigitStringSort.java" />
-        <option value="$PROJECT_DIR$/src/IEx.java" />
         <option value="$PROJECT_DIR$/src/IQuick3StringSort.java" />
+        <option value="$PROJECT_DIR$/src/ITrieSymbolTable.java" />
+        <option value="$PROJECT_DIR$/src/IEx.java" />
+        <option value="$PROJECT_DIR$/src/ITernarySearchTries.java" />
+        <option value="$PROJECT_DIR$/src/IBruteForceSubstringSearch.java" />
+        <option value="$PROJECT_DIR$/src/IKnuthMorrisPrattSubstringSearch.java" />
+        <option value="$PROJECT_DIR$/src/IBoyerMoore.java" />
+        <option value="$PROJECT_DIR$/src/IRabinKarp.java" />
+        <option value="$PROJECT_DIR$/src/IRabinKarpFingerprint.java" />
+        <option value="$PROJECT_DIR$/src/IGrep.java" />
+        <option value="$PROJECT_DIR$/src/IBinaryDump.java" />
+        <option value="$PROJECT_DIR$/src/IRandomBits.java" />
+        <option value="$PROJECT_DIR$/src/IGenome.java" />
+        <option value="$PROJECT_DIR$/src/a.java" />
+        <option value="$PROJECT_DIR$/src/IPictureDump.java" />
+        <option value="$PROJECT_DIR$/src/IRunLength.java" />
+        <option value="$PROJECT_DIR$/src/IHuffmanCompression.java" />
+        <option value="$PROJECT_DIR$/src/ILempelZivWelchCompression.java" />
       </list>
     </option>
   </component>
@@ -195,7 +197,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -249,6 +250,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -663,175 +665,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/IWhiteFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38751346" vertical-offset="0" max-vertical-offset="929">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ILookupCSV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46501616" vertical-offset="0" max-vertical-offset="929">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/ST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5941873" vertical-offset="0" max-vertical-offset="4560">
-          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ILookupIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0850377" vertical-offset="0" max-vertical-offset="1152">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/stdlib/Draw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48116255" vertical-offset="3009" max-vertical-offset="26808">
-          <caret line="172" column="48" selection-start-line="172" selection-start-column="48" selection-end-line="172" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IFileIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20667385" vertical-offset="0" max-vertical-offset="929">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CGraphClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7750269" vertical-offset="0" max-vertical-offset="929">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38751346" vertical-offset="0" max-vertical-offset="929">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5941873" vertical-offset="0" max-vertical-offset="929">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDepthFirstPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18083961" vertical-offset="0" max-vertical-offset="1368">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48331538" vertical-offset="583" max-vertical-offset="1512">
-          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46501616" vertical-offset="0" max-vertical-offset="929">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ITwoColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56835306" vertical-offset="0" max-vertical-offset="984">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ISymbolGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6975242" vertical-offset="0" max-vertical-offset="1728">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IBreadthFirstPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8191604" vertical-offset="247" max-vertical-offset="1248">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDegreeOfSeparation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17330463" vertical-offset="55" max-vertical-offset="984">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDigraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4133477" vertical-offset="0" max-vertical-offset="1056">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38751346" vertical-offset="0" max-vertical-offset="1176">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IKosarajuStrongConnectivityComponents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4208827" vertical-offset="0" max-vertical-offset="1560">
-          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ITransitiveClosure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46501616" vertical-offset="0" max-vertical-offset="929">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IEdge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2583423" vertical-offset="0" max-vertical-offset="929">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IEdgeWeightedGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.90419805" vertical-offset="0" max-vertical-offset="1032">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ILazyPrimMinimumSpanningTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35414425" vertical-offset="175" max-vertical-offset="1104">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IPrimMinimumSpanningTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32831" vertical-offset="175" max-vertical-offset="1104">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dijkstra.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.02583423" vertical-offset="0" max-vertical-offset="929">
@@ -843,13 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8191604" vertical-offset="463" max-vertical-offset="1440">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDirectedDepthFirstSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35414425" vertical-offset="199" max-vertical-offset="1128">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -960,38 +786,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IAlphabet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6295082" vertical-offset="840" max-vertical-offset="3504">
-          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
-          <folding>
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425141940749" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1425141940749" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1425141940749" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1425141940749" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1425141940749" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1425141940749" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425141940749" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ILeastSignificantDigitFirstStringSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.53932583" vertical-offset="0" max-vertical-offset="816">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <marker date="1425357412805" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1425357412805" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -999,34 +797,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61476725" vertical-offset="2713" max-vertical-offset="3336">
           <caret line="158" column="26" selection-start-line="158" selection-start-column="26" selection-end-line="158" selection-end-column="26" />
-          <folding>
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="//..." />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1393648722000" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648722000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,16 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61476725" vertical-offset="337" max-vertical-offset="1104">
           <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-          <folding>
-            <marker date="1420947940655" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1420947940655" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1420947940655" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1420947940655" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1420947940655" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1420947940655" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1420947940655" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1420947940655" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1051,31 +812,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.080257" vertical-offset="505" max-vertical-offset="3000">
           <caret line="101" column="60" selection-start-line="101" selection-start-column="60" selection-end-line="101" selection-end-column="60" />
-          <folding>
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="//..." />
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2327448" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <marker date="1425453499490" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1425453499490" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425453499490" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425453499490" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425453499490" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,15 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.6565008" vertical-offset="432" max-vertical-offset="1752">
           <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
-          <folding>
-            <marker date="1425452405858" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1425452405858" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425452405858" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425452405858" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425452405858" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425452405858" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1425452405858" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1099,21 +827,237 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19261637" vertical-offset="0" max-vertical-offset="1200">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <marker date="1421159952797" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1421159952797" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1421159952797" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1421159952797" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1421159952797" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IQuick3StringSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49919742" vertical-offset="529" max-vertical-offset="1296">
+        <state vertical-scroll-proportion="1.3483146" vertical-offset="0" max-vertical-offset="1296">
           <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.96147674" vertical-offset="577" max-vertical-offset="1320">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.9325843" vertical-offset="3505" max-vertical-offset="4128">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ITrieSymbolTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.823435" vertical-offset="63" max-vertical-offset="3336">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ITernarySearchTries.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4141252" vertical-offset="414" max-vertical-offset="1368">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IBruteForceSubstringSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62439805" vertical-offset="495" max-vertical-offset="1118">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IBoyerMoore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7303371" vertical-offset="553" max-vertical-offset="1224">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/RabinKarp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5508197" vertical-offset="1440" max-vertical-offset="2520">
+          <caret line="109" column="4" selection-start-line="109" selection-start-column="4" selection-end-line="112" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IRabinKarpFingerprint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9229534" vertical-offset="649" max-vertical-offset="1440">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IDirectedDepthFirstSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34670946" vertical-offset="504" max-vertical-offset="1128">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IKnuthMorrisPrattSubstringSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53932583" vertical-offset="0" max-vertical-offset="1392">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/INondeterministicFinateStateAutomata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11556982" vertical-offset="0" max-vertical-offset="623">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IGrep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61476725" vertical-offset="1441" max-vertical-offset="2064">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IBinaryDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6934189" vertical-offset="0" max-vertical-offset="648">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/HexDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.113964684" vertical-offset="649" max-vertical-offset="1272">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IRandomBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42375603" vertical-offset="0" max-vertical-offset="623">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/stdlib/BinaryStdIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.391653" vertical-offset="432" max-vertical-offset="6384">
+          <caret line="135" column="5" selection-start-line="135" selection-start-column="5" selection-end-line="135" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IAlphabet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.039344262" vertical-offset="1872" max-vertical-offset="3504">
+          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/Genome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4622793" vertical-offset="0" max-vertical-offset="1368">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/RunLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5008026" vertical-offset="0" max-vertical-offset="1752">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/PictureDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="744">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/BinaryDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84751207" vertical-offset="432" max-vertical-offset="1128">
+          <caret line="40" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IPictureDump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42375603" vertical-offset="0" max-vertical-offset="720">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IRunLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9229534" vertical-offset="505" max-vertical-offset="1272">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/Huffman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.014446228" vertical-offset="489" max-vertical-offset="4368">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IGenome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61476725" vertical-offset="289" max-vertical-offset="984">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <marker date="1426082654175" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426082654175" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426082654175" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426082654175" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IHuffmanCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.3916533" vertical-offset="2689" max-vertical-offset="3312">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder="&lt;~&gt;" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ILempelZivWelchCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5778491" vertical-offset="720" max-vertical-offset="1512">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding>
+            <element signature="e#314#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
