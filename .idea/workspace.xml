@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c478105-1db9-4429-b3e1-15586d7af0c0" name="Default" comment="tried intellij2">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/IEx.java" afterPath="$PROJECT_DIR$/src/IEx.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9c478105-1db9-4429-b3e1-15586d7af0c0" name="Default" comment="tried intellij2" />
     <ignored path="algorithm.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -31,14 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ILempelZivWelchCompression.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ILempelZivWelchCompression.java">
+      <file leaf-file-name="SuffixArray.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/SuffixArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5778491" vertical-offset="720" max-vertical-offset="1512">
-              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
-              <folding>
-                <element signature="e#314#323#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.5778491" vertical-offset="0" max-vertical-offset="4416">
+              <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,13 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ICC.java" />
-        <option value="$PROJECT_DIR$/src/ICycle.java" />
-        <option value="$PROJECT_DIR$/src/ITwoColor.java" />
-        <option value="$PROJECT_DIR$/src/ISymbolGraph.java" />
-        <option value="$PROJECT_DIR$/src/IDegreeOfSeparation.java" />
-        <option value="$PROJECT_DIR$/src/IDigraph.java" />
-        <option value="$PROJECT_DIR$/src/DirectedDepthFirstSearch.java" />
         <option value="$PROJECT_DIR$/src/IDirectedDepthFirstSearch.java" />
         <option value="$PROJECT_DIR$/src/IDirectedCycle.java" />
         <option value="$PROJECT_DIR$/src/IDepthFirstOrder.java" />
@@ -107,6 +95,13 @@
         <option value="$PROJECT_DIR$/src/IRunLength.java" />
         <option value="$PROJECT_DIR$/src/IHuffmanCompression.java" />
         <option value="$PROJECT_DIR$/src/ILempelZivWelchCompression.java" />
+        <option value="$PROJECT_DIR$/src/IParticle.java" />
+        <option value="$PROJECT_DIR$/src/IICollisionSystem.java" />
+        <option value="$PROJECT_DIR$/src/ICollisionSystem.java" />
+        <option value="$PROJECT_DIR$/src/IBTreeSET.java" />
+        <option value="$PROJECT_DIR$/src/IKeywordInContextSearch.java" />
+        <option value="$PROJECT_DIR$/src/ISuffixArray.java" />
+        <option value="$PROJECT_DIR$/src/ILongestRepeatedSubstring.java" />
       </list>
     </option>
   </component>
@@ -197,6 +192,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,10 +243,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algs4.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -603,8 +616,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -617,7 +630,7 @@
       <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2748663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -665,76 +678,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dijkstra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02583423" vertical-offset="0" max-vertical-offset="929">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDirectedCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8191604" vertical-offset="463" max-vertical-offset="1440">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IFrequencyCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5166846" vertical-offset="0" max-vertical-offset="929">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDirectedEdge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5166846" vertical-offset="0" max-vertical-offset="929">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDijkstraAllPairsShortestPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5166846" vertical-offset="0" max-vertical-offset="929">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDepthFirstOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46501616" vertical-offset="0" max-vertical-offset="1056">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ITopological.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5091496" vertical-offset="55" max-vertical-offset="984">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IAcyclicShortestPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54251885" vertical-offset="0" max-vertical-offset="984">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ICriticalPathMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74919266" vertical-offset="0" max-vertical-offset="960">
-          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IDijkstraShortestPaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6975242" vertical-offset="360" max-vertical-offset="1800">
-          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/IEdgeWeightedDigraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43918192" vertical-offset="0" max-vertical-offset="1008">
@@ -1017,12 +960,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61476725" vertical-offset="289" max-vertical-offset="984">
           <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <marker date="1426082654175" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1426082654175" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426082654175" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426082654175" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,34 +968,182 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.3916533" vertical-offset="2689" max-vertical-offset="3312">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="/**...*/" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder=" { " />
-            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder=" }" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="false" signature="-1:-1" placeholder="&lt;~&gt;" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1426163529386" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ILempelZivWelchCompression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5778491" vertical-offset="720" max-vertical-offset="1512">
-          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        <state vertical-scroll-proportion="-0.15569824" vertical-offset="889" max-vertical-offset="1512">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
-            <element signature="e#314#323#0" expanded="true" />
+            <marker date="1426181749190" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426181749190" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426181749190" expanded="false" signature="-1:-1" placeholder="&lt;~&gt;" />
+            <marker date="1426181749190" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/Particle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1942215" vertical-offset="1440" max-vertical-offset="3168">
+          <caret line="97" column="39" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="39" />
+          <folding>
+            <marker date="1393648728000" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/CollisionSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.717496" vertical-offset="3393" max-vertical-offset="4512">
+          <caret line="170" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+          <folding>
+            <marker date="1393648728000" expanded="false" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1393648728000" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1393648728000" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ICollisionSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.4542518" vertical-offset="0" max-vertical-offset="2928">
+          <caret line="97" column="44" selection-start-line="97" selection-start-column="44" selection-end-line="97" selection-end-column="44" />
+          <folding>
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426235326761" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1426235326761" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426235326761" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IBTreeSET.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6200215" vertical-offset="360" max-vertical-offset="1368">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <marker date="1426248884850" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IICollisionSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53821313" vertical-offset="316" max-vertical-offset="4512">
+          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+          <folding>
+            <marker date="1426234858775" expanded="false" signature="-1:-1" placeholder="/.../" />
+            <marker date="1426234858775" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1426234858775" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426234858775" expanded="true" signature="-1:-1" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/KWIK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6934189" vertical-offset="936" max-vertical-offset="1632">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding>
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1393648728000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IKeywordInContextSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61476725" vertical-offset="73" max-vertical-offset="816">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <marker date="1426265191701" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426265191701" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ILongestRepeatedSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7704655" vertical-offset="0" max-vertical-offset="672">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <marker date="1426265570368" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426265570368" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ISuffixArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.4622793" vertical-offset="720" max-vertical-offset="1440">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1426265542239" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1426265542239" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426265542239" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1426265542239" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1426265542239" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1426265542239" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1426265542239" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1426265542239" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1426265542239" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1426265542239" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1426265542239" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1426265542239" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/algs4.jar!/SuffixArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5778491" vertical-offset="0" max-vertical-offset="4416">
+          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
